@@ -1,0 +1,53 @@
+{
+    "Science": [
+        {
+            "question": "What planet is known as the Red Planet?",
+            "options": ["Earth", "Mars", "Jupiter", "Venus"],
+            "answer": "2"
+        },
+        {
+            "question": "What is the chemical symbol for water?",
+            "options": ["O2", "H2O", "CO2", "NaCl"],
+            "answer": "2"
+        },
+        {
+            "question": "What gas do plants absorb from the atmosphere?",
+            "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+            "answer": "3"
+        }
+    ],
+    "Mathematics": [
+        {
+            "question": "What is 2 + 2?",
+            "options": ["3", "4", "5", "6"],
+            "answer": "2"
+        },
+        {
+            "question": "What is the square root of 64?",
+            "options": ["6", "7", "8", "9"],
+            "answer": "3"
+        },
+        {
+            "question": "What is 5 factorial (5!)?",
+            "options": ["60", "120", "24", "20"],
+            "answer": "2"
+        }
+    ],
+    "History": [
+        {
+            "question": "Who was the first President of the United States?",
+            "options": ["Abraham Lincoln", "George Washington", "Thomas Jefferson", "John Adams"],
+            "answer": "2"
+        },
+        {
+            "question": "What year did World War II end?",
+            "options": ["1942", "1945", "1947", "1950"],
+            "answer": "2"
+        },
+        {
+            "question": "Who discovered America?",
+            "options": ["Christopher Columbus", "Leif Erikson", "Amerigo Vespucci", "James Cook"],
+            "answer": "1"
+        }
+    ]
+}
